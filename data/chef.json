@@ -1,0 +1,173 @@
+[
+    {
+        "id": "1",
+        "name": "John Smith",
+        "img_url": "https://example.com/john-smith.jpg",
+        "experience": "10 years",
+        "total_recipe": 10,
+        "details": {
+            "specialty": "French cuisine",
+            "awards": ["Michelin star", "James Beard Award"],
+            "training":
+                {
+                    "name": "Culinary Institute of America",
+                    "degree": "Associate's degree in Culinary Arts"
+                },
+                
+            "restaurants": 
+                {
+                    "name": "Le Restaurant",
+                    "location": "Paris, France",
+                    "position": "Executive Chef",
+                    "start_date": "January 2015",
+                    "end_date": "Present"
+                }
+                
+            
+        }
+    },
+    {
+        "id": "2",
+        "name": "Maria Garcia",
+        "img_url": "https://example.com/maria-garcia.jpg",
+        "experience": "7 years",
+        "total_recipe": 30,
+        "details": {
+            "specialty": "Mexican cuisine",
+            "awards": ["Best Chef Mexico 2018"],
+            "training": [
+                {
+                    "name": "Instituto Culinario de Mexico",
+                    "degree": "Bachelor's degree in Culinary Arts"
+                },
+                {
+                    "name": "Institute of Culinary Education",
+                    "degree": "Professional Culinary Arts program"
+                }
+            ],
+            "restaurants": [
+                {
+                    "name": "La Taqueria",
+                    "location": "Mexico City, Mexico",
+                    "position": "Head Chef",
+                    "start_date": "January 2016",
+                    "end_date": "Present"
+                },
+                {
+                    "name": "Casa de Maria",
+                    "location": "San Diego, USA",
+                    "position": "Sous Chef",
+                    "start_date": "July 2014",
+                    "end_date": "December 2015"
+                }
+            ]
+        }
+    },
+    {
+        "id": "3",
+        "name": "David Lee",
+        "img_url": "https://example.com/david-lee.jpg",
+        "experience": "15 years",
+        "total_recipe": 80,
+        "details": {
+            "specialty": "Korean cuisine",
+            "awards": ["Asia's 50 Best Restaurants 2017"],
+            "training": 
+                {
+                    "name": "Culinary Institute of America",
+                    "degree": "Associate's degree in Culinary Arts"
+                },
+                
+            "restaurants": 
+                {
+                    "name": "Seoul Kitchen",
+                    "location": "Seoul, South Korea",
+                    "position": "Executive Chef",
+                    "start_date": "January 2018",
+                    "end_date": "Present"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "name": "Alice Johnson",
+            "img_url": "https://example.com/alice-johnson.jpg",
+            "experience": "10 years",
+            "total_recipe": 15,
+            "details": {
+                "specialty": "French cuisine",
+                "awards": ["Michelin star", "James Beard Award"],
+                "training": 
+                    
+                    {
+                        "name": "Le Cordon Bleu",
+                        "degree": "Master's degree in Culinary Arts"
+                    }
+                ,
+                "restaurants": 
+                    
+                    {
+                        "name": "The Bistro",
+                        "location": "New York, USA",
+                        "position": "Head Chef",
+                        "start_date": "June 2010",
+                        "end_date": "December 2014"
+                    }
+                
+            }
+        },
+        {
+            "id": 5,
+            "name": "David Kim",
+            "img_url": "https://example.com/david-kim.jpg",
+            "experience": "7 years",
+            "total_recipe": 30,
+            "details": {
+                "specialty": "Korean cuisine",
+                "awards": ["Best Chef Korea 2021"],
+                "training": 
+                    
+                    {
+                        "name": "Sungkyunkwan University",
+                        "degree": "Bachelor's degree in Korean Cuisine"
+                    }
+                ,
+                "restaurants": 
+                    
+                    {
+                        "name": "Momofuku",
+                        "location": "New York, USA",
+                        "position": "Sous Chef",
+                        "start_date": "July 2015",
+                        "end_date": "December 2019"
+                    }
+                
+            }
+        },
+        {
+            "id": 6,
+            "name": "Julia Martinez",
+            "img_url": "https://example.com/julia-martinez.jpg",
+            "experience": "5 years",
+            "total_recipe": 10,
+            "details": {
+                "specialty": "Mexican cuisine",
+                "awards": ["Best Chef Mexico 2018"],
+                "training": 
+                   
+                    {
+                        "name": "The Culinary Institute of America",
+                        "degree": "Master's degree in Mexican Cuisine"
+                    }
+                ,
+                "restaurants": 
+                    {
+                        "name": "La Cocina",
+                        "location": "Mexico City, Mexico",
+                        "position": "Executive Chef",
+                        "start_date": "January 2020",
+                        "end_date": "Present"
+                    }
+            }
+        }
+]
