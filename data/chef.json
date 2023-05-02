@@ -2,9 +2,17 @@
     {
         "id": "1",
         "name": "John Smith",
-        "img_url": "https://example.com/john-smith.jpg",
+        "img_url": "https://img.freepik.com/free-photo/studio-portrait-positive-cook-male-holds-eggplant_613910-9899.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph",
         "experience": "10 years",
         "total_recipe": 10,
+        "rating": 4.8,
+        "responsibilities": [
+            "Develop and oversee the menu for the restaurant.",
+            "Ensure high-quality food preparation and presentation.",
+            "Manage kitchen staff and delegate tasks.",
+            "Maintain inventory and order supplies."
+            
+          ],
         "details": {
             "specialty": "French cuisine",
             "awards": ["Michelin star", "James Beard Award"],
@@ -29,9 +37,16 @@
     {
         "id": "2",
         "name": "Maria Garcia",
-        "img_url": "https://example.com/maria-garcia.jpg",
+        "img_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph",
         "experience": "7 years",
         "total_recipe": 30,
+        "rating": 4.3,
+        "responsibilities": [
+            "Assist the executive chef in menu planning and preparation.",
+            "Maintain kitchen equipment and ensure cleanliness and organization.",
+            "Train and mentor junior staff members.",
+            "Assist with inventory management and ordering."
+          ],
         "details": {
             "specialty": "Mexican cuisine",
             "awards": ["Best Chef Mexico 2018"],
@@ -66,9 +81,16 @@
     {
         "id": "3",
         "name": "David Lee",
-        "img_url": "https://example.com/david-lee.jpg",
+        "img_url": "https://img.freepik.com/free-photo/medium-shot-woman-cutting-meat_23-2149631726.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph",
         "experience": "15 years",
         "total_recipe": 80,
+        "rating": 4.5,
+        "responsibilities": [
+            "Create and execute dessert menu items.",
+            "Train and mentor junior pastry staff members.",
+            "Order supplies and maintain inventory.",
+            "Collaborate with executive chef and management on menu development."
+          ],
         "details": {
             "specialty": "Korean cuisine",
             "awards": ["Asia's 50 Best Restaurants 2017"],
@@ -91,9 +113,16 @@
         {
             "id": 4,
             "name": "Alice Johnson",
-            "img_url": "https://example.com/alice-johnson.jpg",
+            "img_url": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph",
             "experience": "10 years",
             "total_recipe": 15,
+            "rating": 4.2,
+            "responsibilities": [
+                "Plan and execute menu items for large-scale events.",
+                "Maintain inventory and order supplies as needed.",
+                "Ensure compliance with health and safety regulations.",
+                "Collaborate with management to create budgets and manage costs."
+              ],
             "details": {
                 "specialty": "French cuisine",
                 "awards": ["Michelin star", "James Beard Award"],
@@ -119,9 +148,16 @@
         {
             "id": 5,
             "name": "David Kim",
-            "img_url": "https://example.com/david-kim.jpg",
+            "img_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph",
             "experience": "7 years",
             "total_recipe": 30,
+            "rating": 4.0,
+            "responsibilities": [
+                "Assist the executive chef in menu planning and preparation.",
+                "Collaborate with management to create budgets and manage costs.",
+                "Train and mentor junior staff members.",
+                "Assist with inventory management and ordering."
+              ],
             "details": {
                 "specialty": "Korean cuisine",
                 "awards": ["Best Chef Korea 2021"],
@@ -147,9 +183,16 @@
         {
             "id": 6,
             "name": "Julia Martinez",
-            "img_url": "https://example.com/julia-martinez.jpg",
+            "img_url": "https://img.freepik.com/free-photo/happy-barista-pointing-finger-left-smiling-wearing-black-apron-uniform-standing-against-yellow-background-copy-space_1258-41012.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph",
             "experience": "5 years",
             "total_recipe": 10,
+            "rating": 4.4,
+            "responsibilities": [
+                "Plan and execute menu items for large-scale events.",
+                "Maintain inventory and order supplies.",
+                "Ensure compliance with health and safety regulations.",
+                "Collaborate with management to create budgets and manage costs."
+              ],
             "details": {
                 "specialty": "Mexican cuisine",
                 "awards": ["Best Chef Mexico 2018"],

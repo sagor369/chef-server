@@ -1,0 +1,642 @@
+[
+    {
+        "id": 1,
+        "food_items": [
+          {
+            "id": 1,
+            "name": "Chicken Parmesan",
+            "recipe_items": [
+              "Boneless chicken breast",
+              "Breadcrumbs",
+              "Egg",
+              "Marinara sauce",
+              "Mozzarella cheese",
+              "Parmesan cheese",
+              "Spaghetti"
+            ],
+            "price": 14.99,
+            "img_url": "https://example.com/chicken_parmesan.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Beef Stir-Fry",
+            "recipe_items": [
+              "Beef sirloin",
+              "Broccoli",
+              "Carrots",
+              "Bell peppers",
+              "Soy sauce",
+              "Garlic",
+              "Ginger",
+              "Rice"
+            ],
+            "price": 12.99,
+            "img_url": "https://example.com/beef_stir_fry.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Veggie Pizza",
+            "recipe_items": [
+              "Pizza dough",
+              "Marinara sauce",
+              "Mozzarella cheese",
+              "Mushrooms",
+              "Olives",
+              "Onions",
+              "Bell peppers",
+              "Tomatoes"
+            ],
+            "price": 9.99,
+            "img_url": "https://example.com/veggie_pizza.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Grilled Salmon",
+            "recipe_items": [
+              "Salmon fillet",
+              "Olive oil",
+              "Lemon",
+              "Garlic",
+              "Salt",
+              "Pepper",
+              "Asparagus"
+            ],
+            "price": 16.99,
+            "img_url": "https://example.com/grilled_salmon.jpg"
+          },
+          {
+            "id": 5,
+            "name": "BBQ Ribs",
+            "recipe_items": [
+              "Pork ribs",
+              "BBQ sauce",
+              "Brown sugar",
+              "Garlic powder",
+              "Onion powder",
+              "Paprika",
+              "Salt",
+              "Pepper"
+            ],
+            "price": 18.99,
+            "img_url": "https://example.com/bbq_ribs.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Shrimp Alfredo",
+            "recipe_items": [
+              "Fettuccine",
+              "Shrimp",
+              "Heavy cream",
+              "Parmesan cheese",
+              "Garlic",
+              "Butter",
+              "Parsley"
+            ],
+            "price": 15.99,
+            "img_url": "https://example.com/shrimp_alfredo.jpg"
+          },
+          {
+            "id": 7,
+            "name": "Beef Tacos",
+            "recipe_items": [
+              "Ground beef",
+              "Taco seasoning",
+              "Taco shells",
+              "Lettuce",
+              "Tomatoes",
+              "Cheese",
+              "Sour cream",
+              "Salsa"
+            ],
+            "price": 10.99,
+            "img_url": "https://example.com/beef_tacos.jpg"
+          }
+        ]
+    },
+    {
+        "id": 2,
+        "food_items": [
+          {
+            "id": 1,
+            "name": "Pesto Chicken Pasta",
+            "recipe_items": [
+              "Boneless chicken breast",
+              "Penne pasta",
+              "Basil pesto",
+              "Cherry tomatoes",
+              "Garlic",
+              "Parmesan cheese",
+              "Olive oil"
+            ],
+            "price": 12.99,
+            "img_url": "https://example.com/pesto_chicken_pasta.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Vegetarian Burrito Bowl",
+            "recipe_items": [
+              "Brown rice",
+              "Black beans",
+              "Corn",
+              "Red onion",
+              "Red bell pepper",
+              "Avocado",
+              "Salsa",
+              "Cilantro"
+            ],
+            "price": 10.99,
+            "img_url": "https://example.com/vegetarian_burrito_bowl.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Margherita Pizza",
+            "recipe_items": [
+              "Pizza dough",
+              "Tomato sauce",
+              "Mozzarella cheese",
+              "Fresh basil"
+            ],
+            "price": 9.99,
+            "img_url": "https://example.com/margherita_pizza.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Grilled Salmon Salad",
+            "recipe_items": [
+              "Salmon fillet",
+              "Mixed greens",
+              "Cherry tomatoes",
+              "Cucumber",
+              "Red onion",
+              "Lemon",
+              "Olive oil",
+              "Honey mustard dressing"
+            ],
+            "price": 15.99,
+            "img_url": "https://example.com/grilled_salmon_salad.jpg"
+          },
+          {
+            "id": 5,
+            "name": "BBQ Chicken Wings",
+            "recipe_items": [
+              "Chicken wings",
+              "BBQ sauce",
+              "Garlic powder",
+              "Paprika",
+              "Salt",
+              "Pepper"
+            ],
+            "price": 13.99,
+            "img_url": "https://example.com/bbq_chicken_wings.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Shrimp Scampi",
+            "recipe_items": [
+              "Spaghetti",
+              "Shrimp",
+              "Butter",
+              "Garlic",
+              "Lemon",
+              "Red pepper flakes",
+              "Parsley",
+              "Parmesan cheese"
+            ],
+            "price": 17.99,
+            "img_url": "https://example.com/shrimp_scampi.jpg"
+          },
+          {
+            "id": 7,
+            "name": "Grilled Steak",
+            "recipe_items": [
+              "Sirloin steak",
+              "Salt",
+              "Pepper",
+              "Garlic powder",
+              "Butter",
+              "Rosemary",
+              "Thyme",
+              "Asparagus"
+            ],
+            "price": 19.99,
+            "img_url": "https://example.com/grilled_steak.jpg"
+          }
+        ]
+    },
+    {
+        "id": 3,
+        "food_items": [
+          {
+            "id": 1,
+            "name": "Miso Ramen",
+            "recipe_items": [
+              "Ramen noodles",
+              "Miso paste",
+              "Soy sauce",
+              "Mirin",
+              "Chicken stock",
+              "Pork belly",
+              "Egg",
+              "Bok choy",
+              "Green onion",
+              "Sesame seeds"
+            ],
+            "price": 11.99,
+            "img_url": "https://example.com/miso_ramen.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Black Bean Burger",
+            "recipe_items": [
+              "Black beans",
+              "Breadcrumbs",
+              "Egg",
+              "Red onion",
+              "Garlic",
+              "Cumin",
+              "Smoked paprika",
+              "Salt",
+              "Pepper",
+              "Burger buns",
+              "Lettuce",
+              "Tomato",
+              "Avocado",
+              "Chipotle mayo"
+            ],
+            "price": 9.99,
+            "img_url": "https://example.com/black_bean_burger.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Veggie Stir Fry",
+            "recipe_items": [
+              "Brown rice",
+              "Broccoli",
+              "Bell peppers",
+              "Carrots",
+              "Onion",
+              "Garlic",
+              "Ginger",
+              "Soy sauce",
+              "Honey",
+              "Sesame oil"
+            ],
+            "price": 10.99,
+            "img_url": "https://example.com/veggie_stir_fry.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Thai Green Curry",
+            "recipe_items": [
+              "Coconut milk",
+              "Green curry paste",
+              "Fish sauce",
+              "Brown sugar",
+              "Lime",
+              "Chicken breast",
+              "Red bell pepper",
+              "Green beans",
+              "Jasmine rice"
+            ],
+            "price": 13.99,
+            "img_url": "https://example.com/thai_green_curry.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Teriyaki Salmon",
+            "recipe_items": [
+              "Salmon fillet",
+              "Soy sauce",
+              "Mirin",
+              "Brown sugar",
+              "Garlic",
+              "Ginger",
+              "Green onion",
+              "Sesame seeds",
+              "Jasmine rice",
+              "Steamed broccoli"
+            ],
+            "price": 15.99,
+            "img_url": "https://example.com/teriyaki_salmon.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Spinach and Feta Stuffed Chicken Breast",
+            "recipe_items": [
+              "Chicken breast",
+              "Spinach",
+              "Feta cheese",
+              "Garlic",
+              "Lemon juice",
+              "Salt",
+              "Pepper",
+              "Panko breadcrumbs",
+              "Egg",
+              "Olive oil"
+            ],
+            "price": 16.99,
+            "img_url": "https://example.com/spinach_feta_chicken.jpg"
+          }
+        ]
+    },
+    {
+        "id": 4,
+        "food_items": [
+          {
+            "id": 101,
+            "name": "Chicken Alfredo Pasta",
+            "recipe_items": [
+              "Fettuccine pasta",
+              "Chicken breast",
+              "Heavy cream",
+              "Butter",
+              "Garlic",
+              "Parmesan cheese",
+              "Salt",
+              "Pepper"
+            ],
+            "price": 14.99,
+            "img_url": "https://example.com/chicken_alfredo_pasta.jpg"
+          },
+          {
+            "id": 102,
+            "name": "Vegetable Lasagna",
+            "recipe_items": [
+              "Lasagna noodles",
+              "Tomato sauce",
+              "Zucchini",
+              "Spinach",
+              "Mushrooms",
+              "Onion",
+              "Garlic",
+              "Ricotta cheese",
+              "Mozzarella cheese",
+              "Parmesan cheese"
+            ],
+            "price": 12.99,
+            "img_url": "https://example.com/vegetable_lasagna.jpg"
+          },
+          {
+            "id": 103,
+            "name": "Beef Tacos",
+            "recipe_items": [
+              "Ground beef",
+              "Taco seasoning",
+              "Tomato",
+              "Lettuce",
+              "Cheddar cheese",
+              "Taco shells",
+              "Sour cream",
+              "Salsa"
+            ],
+            "price": 9.99,
+            "img_url": "https://example.com/beef_tacos.jpg"
+          },
+          {
+            "id": 104,
+            "name": "Vegetable Fried Rice",
+            "recipe_items": [
+              "White rice",
+              "Carrots",
+              "Peas",
+              "Corn",
+              "Onion",
+              "Garlic",
+              "Egg",
+              "Soy sauce",
+              "Sesame oil"
+            ],
+            "price": 8.99,
+            "img_url": "https://example.com/vegetable_fried_rice.jpg"
+          },
+          {
+            "id": 105,
+            "name": "Grilled Salmon Salad",
+            "recipe_items": [
+              "Salmon fillet",
+              "Mixed greens",
+              "Tomato",
+              "Cucumber",
+              "Red onion",
+              "Avocado",
+              "Lemon vinaigrette"
+            ],
+            "price": 16.99,
+            "img_url": "https://example.com/grilled_salmon_salad.jpg"
+          },
+          {
+            "id": 106,
+            "name": "Spaghetti Bolognese",
+            "recipe_items": [
+              "Spaghetti pasta",
+              "Ground beef",
+              "Tomato sauce",
+              "Onion",
+              "Garlic",
+              "Red wine",
+              "Carrots",
+              "Celery",
+              "Parmesan cheese"
+            ],
+            "price": 11.99,
+            "img_url": "https://example.com/spaghetti_bolognese.jpg"
+          }
+        ]
+    },
+    {
+        "id": 5,
+        "food_items": [
+          {
+            "id": 201,
+            "name": "Margherita Pizza",
+            "recipe_items": [
+              "Pizza dough",
+              "Tomato sauce",
+              "Mozzarella cheese",
+              "Fresh basil leaves",
+              "Salt",
+              "Pepper"
+            ],
+            "price": 11.99,
+            "img_url": "https://example.com/margherita_pizza.jpg"
+          },
+          {
+            "id": 202,
+            "name": "BBQ Pulled Pork Sandwich",
+            "recipe_items": [
+              "Pork shoulder",
+              "BBQ sauce",
+              "Hamburger buns",
+              "Cole slaw"
+            ],
+            "price": 9.99,
+            "img_url": "https://example.com/bbq_pulled_pork_sandwich.jpg"
+          },
+          {
+            "id": 203,
+            "name": "Beef Stir Fry",
+            "recipe_items": [
+              "Beef sirloin",
+              "Broccoli",
+              "Carrots",
+              "Bell peppers",
+              "Onion",
+              "Garlic",
+              "Soy sauce",
+              "Sesame oil",
+              "Cornstarch",
+              "Rice"
+            ],
+            "price": 13.99,
+            "img_url": "https://example.com/beef_stir_fry.jpg"
+          },
+          {
+            "id": 204,
+            "name": "Chicken Caesar Salad",
+            "recipe_items": [
+              "Romaine lettuce",
+              "Grilled chicken breast",
+              "Parmesan cheese",
+              "Croutons",
+              "Caesar dressing"
+            ],
+            "price": 8.99,
+            "img_url": "https://example.com/chicken_caesar_salad.jpg"
+          },
+          {
+            "id": 205,
+            "name": "Pesto Pasta",
+            "recipe_items": [
+              "Penne pasta",
+              "Basil pesto",
+              "Cherry tomatoes",
+              "Garlic",
+              "Parmesan cheese",
+              "Pine nuts",
+              "Olive oil"
+            ],
+            "price": 10.99,
+            "img_url": "https://example.com/pesto_pasta.jpg"
+          },
+          {
+            "id": 206,
+            "name": "Vegetable Soup",
+            "recipe_items": [
+              "Carrots",
+              "Celery",
+              "Onion",
+              "Garlic",
+              "Potatoes",
+              "Tomato",
+              "Green beans",
+              "Vegetable broth",
+              "Bay leaves",
+              "Thyme",
+              "Salt",
+              "Pepper"
+            ],
+            "price": 7.99,
+            "img_url": "https://example.com/vegetable_soup.jpg"
+          }
+        ]
+    },
+    {
+        "id": 6,
+        "food_items": [
+          {
+            "id": 301,
+            "name": "Classic Cheeseburger",
+            "recipe_items": [
+              "Ground beef",
+              "Cheddar cheese",
+              "Burger buns",
+              "Lettuce",
+              "Tomato",
+              "Onion",
+              "Ketchup",
+              "Mustard",
+              "Mayonnaise"
+            ],
+            "price": 9.99,
+            "img_url": "https://example.com/classic_cheeseburger.jpg"
+          },
+          {
+            "id": 302,
+            "name": "Chicken Parmesan",
+            "recipe_items": [
+              "Chicken breast",
+              "Tomato sauce",
+              "Mozzarella cheese",
+              "Bread crumbs",
+              "Parmesan cheese",
+              "Spaghetti",
+              "Garlic",
+              "Olive oil",
+              "Salt",
+              "Pepper"
+            ],
+            "price": 12.99,
+            "img_url": "https://example.com/chicken_parmesan.jpg"
+          },
+          {
+            "id": 303,
+            "name": "Beef Tacos",
+            "recipe_items": [
+              "Ground beef",
+              "Taco seasoning",
+              "Taco shells",
+              "Lettuce",
+              "Tomato",
+              "Cheddar cheese",
+              "Sour cream",
+              "Salsa"
+            ],
+            "price": 8.99,
+            "img_url": "https://example.com/beef_tacos.jpg"
+          },
+          {
+            "id": 304,
+            "name": "Spinach and Feta Stuffed Chicken",
+            "recipe_items": [
+              "Chicken breast",
+              "Spinach",
+              "Feta cheese",
+              "Garlic",
+              "Lemon",
+              "Olive oil",
+              "Salt",
+              "Pepper"
+            ],
+            "price": 13.99,
+            "img_url": "https://example.com/spinach_feta_chicken.jpg"
+          },
+          {
+            "id": 305,
+            "name": "Shrimp Alfredo",
+            "recipe_items": [
+              "Shrimp",
+              "Fettuccine pasta",
+              "Heavy cream",
+              "Parmesan cheese",
+              "Garlic",
+              "Butter",
+              "Salt",
+              "Pepper"
+            ],
+            "price": 15.99,
+            "img_url": "https://example.com/shrimp_alfredo.jpg"
+          },
+          {
+            "id": 306,
+            "name": "Grilled Cheese Sandwich",
+            "recipe_items": [
+              "Bread",
+              "Cheddar cheese",
+              "Butter"
+            ],
+            "price": 6.99,
+            "img_url": "https://example.com/grilled_cheese.jpg"
+          }
+        ]
+    }
+]
