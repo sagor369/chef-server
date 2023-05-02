@@ -15,7 +15,7 @@
               "Spaghetti"
             ],
             "price": 14.99,
-            "img_url": "https://example.com/chicken_parmesan.jpg"
+            "img_url": "https://img.freepik.com/free-photo/double-hamburger-isolated-white-background-fresh-burger-fast-food-with-beef-cream-cheese_90220-1192.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 2,
@@ -31,7 +31,7 @@
               "Rice"
             ],
             "price": 12.99,
-            "img_url": "https://example.com/beef_stir_fry.jpg"
+            "img_url": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27383.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 3,
@@ -47,7 +47,7 @@
               "Tomatoes"
             ],
             "price": 9.99,
-            "img_url": "https://example.com/veggie_pizza.jpg"
+            "img_url": "https://img.freepik.com/free-photo/chicken-wings-barbecue-sweetly-sour-sauce-picnic-summer-menu-tasty-food-top-view-flat-lay_2829-6471.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 4,
@@ -62,7 +62,7 @@
               "Asparagus"
             ],
             "price": 16.99,
-            "img_url": "https://example.com/grilled_salmon.jpg"
+            "img_url": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 5,
@@ -78,7 +78,7 @@
               "Pepper"
             ],
             "price": 18.99,
-            "img_url": "https://example.com/bbq_ribs.jpg"
+            "img_url": "https://img.freepik.com/free-photo/tortilla-wrap-with-falafel-fresh-salad-vegan-tacos-vegetarian-healthy-food_2829-6193.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 6,
@@ -93,7 +93,7 @@
               "Parsley"
             ],
             "price": 15.99,
-            "img_url": "https://example.com/shrimp_alfredo.jpg"
+            "img_url": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 7,
@@ -129,7 +129,7 @@
               "Olive oil"
             ],
             "price": 12.99,
-            "img_url": "https://example.com/pesto_chicken_pasta.jpg"
+            "img_url": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27379.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 2,
@@ -145,7 +145,7 @@
               "Cilantro"
             ],
             "price": 10.99,
-            "img_url": "https://example.com/vegetarian_burrito_bowl.jpg"
+            "img_url": "https://img.freepik.com/free-photo/side-view-fried-meat-with-french-fries-ketchup_141793-4908.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 3,
@@ -157,7 +157,7 @@
               "Fresh basil"
             ],
             "price": 9.99,
-            "img_url": "https://example.com/margherita_pizza.jpg"
+            "img_url": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.1.2077699082.1681132836&semt=sph"
           },
           {
             "id": 4,
@@ -173,7 +173,7 @@
               "Honey mustard dressing"
             ],
             "price": 15.99,
-            "img_url": "https://example.com/grilled_salmon_salad.jpg"
+            "img_url": "https://img.freepik.com/free-photo/penne-pasta-with-meatballs-tomato-sauce-white-bowl_2829-7663.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 5,
@@ -187,7 +187,7 @@
               "Pepper"
             ],
             "price": 13.99,
-            "img_url": "https://example.com/bbq_chicken_wings.jpg"
+            "img_url": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10654.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.1.2077699082.1681132836&semt=sph"
           },
           {
             "id": 6,
@@ -203,7 +203,7 @@
               "Parmesan cheese"
             ],
             "price": 17.99,
-            "img_url": "https://example.com/shrimp_scampi.jpg"
+            "img_url": "https://img.freepik.com/free-photo/grilled-chicken-rice-spicy-chickpeas-avocado-cabbage-pepper-buddha-bowl_127032-1996.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 7,
@@ -219,7 +219,7 @@
               "Asparagus"
             ],
             "price": 19.99,
-            "img_url": "https://example.com/grilled_steak.jpg"
+            "img_url": "https://img.freepik.com/free-photo/spicy-fried-tubtim-fish-salad-spicy-thai-food_1150-26481.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           }
         ]
     },
@@ -242,7 +242,7 @@
               "Sesame seeds"
             ],
             "price": 11.99,
-            "img_url": "https://example.com/miso_ramen.jpg"
+            "img_url": "https://img.freepik.com/free-photo/bbq-with-variety-meats-complete-with-tomatoes-bell-peppers-white-plate_1150-22603.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 2,
@@ -264,7 +264,7 @@
               "Chipotle mayo"
             ],
             "price": 9.99,
-            "img_url": "https://example.com/black_bean_burger.jpg"
+            "img_url": "https://img.freepik.com/free-photo/hot-grilled-spare-ribs-with-barbecue-sauce-with-fire-ai-generative_123827-23822.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 3,
@@ -282,7 +282,7 @@
               "Sesame oil"
             ],
             "price": 10.99,
-            "img_url": "https://example.com/veggie_stir_fry.jpg"
+            "img_url": "https://img.freepik.com/free-photo/side-view-chicken-roll-grilled-chicken-lettuce-cucumber-tomato-mayo-pita_141793-4849.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.1.2077699082.1681132836&semt=sph"
           },
           {
             "id": 4,
@@ -299,7 +299,7 @@
               "Jasmine rice"
             ],
             "price": 13.99,
-            "img_url": "https://example.com/thai_green_curry.jpg"
+            "img_url": "https://img.freepik.com/free-photo/fried-chicken-wings-with-fish-sauce-sweet-fish-sauce_1150-26381.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.1.2077699082.1681132836&semt=sph"
           },
           {
             "id": 5,
@@ -317,7 +317,7 @@
               "Steamed broccoli"
             ],
             "price": 15.99,
-            "img_url": "https://example.com/teriyaki_salmon.jpg"
+            "img_url": "https://img.freepik.com/free-photo/lula-kebab-served-with-chopped-onion-greens_140725-7971.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 6,
@@ -335,7 +335,7 @@
               "Olive oil"
             ],
             "price": 16.99,
-            "img_url": "https://example.com/spinach_feta_chicken.jpg"
+            "img_url": "https://img.freepik.com/free-photo/mexican-quesadilla-sliced-with-vegetables-sauces-table_2829-8583.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           }
         ]
     },
@@ -356,7 +356,7 @@
               "Pepper"
             ],
             "price": 14.99,
-            "img_url": "https://example.com/chicken_alfredo_pasta.jpg"
+            "img_url": "https://img.freepik.com/free-photo/sausage-fried-rice-with-tomatoes-carrots-shiitake-mushrooms-plate_1150-27184.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 102,
@@ -374,7 +374,7 @@
               "Parmesan cheese"
             ],
             "price": 12.99,
-            "img_url": "https://example.com/vegetable_lasagna.jpg"
+            "img_url": "https://img.freepik.com/free-photo/asian-food-pollo-foodie-gourmet_1350-71.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 103,
@@ -390,7 +390,7 @@
               "Salsa"
             ],
             "price": 9.99,
-            "img_url": "https://example.com/beef_tacos.jpg"
+            "img_url": "https://img.freepik.com/free-photo/thai-food-tom-yum-kung-river-prawn-spicy-soup_1150-35451.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 104,
@@ -407,7 +407,7 @@
               "Sesame oil"
             ],
             "price": 8.99,
-            "img_url": "https://example.com/vegetable_fried_rice.jpg"
+            "img_url": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style_2829-10159.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 105,
@@ -422,7 +422,7 @@
               "Lemon vinaigrette"
             ],
             "price": 16.99,
-            "img_url": "https://example.com/grilled_salmon_salad.jpg"
+            "img_url": "https://img.freepik.com/free-photo/homemade-roasted-chicken-leg-with-rosemary_1205-12169.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 106,
@@ -439,7 +439,7 @@
               "Parmesan cheese"
             ],
             "price": 11.99,
-            "img_url": "https://example.com/spaghetti_bolognese.jpg"
+            "img_url": "https://img.freepik.com/free-photo/grilled-chicken-steak-vegetables-marble-background_1150-45265.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           }
         ]
     },
@@ -458,7 +458,7 @@
               "Pepper"
             ],
             "price": 11.99,
-            "img_url": "https://example.com/margherita_pizza.jpg"
+            "img_url": "https://img.freepik.com/free-photo/high-angle-man-cooking-delicious-pizza_23-2150306994.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 202,
@@ -470,7 +470,7 @@
               "Cole slaw"
             ],
             "price": 9.99,
-            "img_url": "https://example.com/bbq_pulled_pork_sandwich.jpg"
+            "img_url": "https://img.freepik.com/free-photo/front-view-burger-with-french-fries_23-2148234992.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 203,
@@ -488,7 +488,7 @@
               "Rice"
             ],
             "price": 13.99,
-            "img_url": "https://example.com/beef_stir_fry.jpg"
+            "img_url": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style_2829-10158.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 204,
@@ -501,7 +501,7 @@
               "Caesar dressing"
             ],
             "price": 8.99,
-            "img_url": "https://example.com/chicken_caesar_salad.jpg"
+            "img_url": "https://img.freepik.com/free-photo/juicy-delicious-meat-cutlets-dark-table-russian-cuisine_2829-7278.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 205,
@@ -516,7 +516,7 @@
               "Olive oil"
             ],
             "price": 10.99,
-            "img_url": "https://example.com/pesto_pasta.jpg"
+            "img_url": "https://img.freepik.com/free-photo/side-view-chicken-kebab-with-grilled-hot-green-pepper-tomato-pickled-cabbage-rice-pita_141793-4837.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           },
           {
             "id": 206,
@@ -536,7 +536,7 @@
               "Pepper"
             ],
             "price": 7.99,
-            "img_url": "https://example.com/vegetable_soup.jpg"
+            "img_url": "https://img.freepik.com/free-photo/dietary-menu-healthy-vegan-salad-vegetables-broccoli-mushrooms-spinach-quinoa-bowl-flat-lay-top-view_2829-20115.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           }
         ]
     },
@@ -558,7 +558,7 @@
               "Mayonnaise"
             ],
             "price": 9.99,
-            "img_url": "https://example.com/classic_cheeseburger.jpg"
+            "img_url": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=600"
           },
           {
             "id": 302,
@@ -576,7 +576,7 @@
               "Pepper"
             ],
             "price": 12.99,
-            "img_url": "https://example.com/chicken_parmesan.jpg"
+            "img_url": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=600"
           },
           {
             "id": 303,
@@ -592,7 +592,7 @@
               "Salsa"
             ],
             "price": 8.99,
-            "img_url": "https://example.com/beef_tacos.jpg"
+            "img_url": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress&cs=tinysrgb&w=600"
           },
           {
             "id": 304,
@@ -608,7 +608,7 @@
               "Pepper"
             ],
             "price": 13.99,
-            "img_url": "https://example.com/spinach_feta_chicken.jpg"
+            "img_url": "https://images.pexels.com/photos/718742/pexels-photo-718742.jpeg?auto=compress&cs=tinysrgb&w=600"
           },
           {
             "id": 305,
@@ -624,7 +624,7 @@
               "Pepper"
             ],
             "price": 15.99,
-            "img_url": "https://example.com/shrimp_alfredo.jpg"
+            "img_url": "https://images.pexels.com/photos/3186654/pexels-photo-3186654.jpeg?auto=compress&cs=tinysrgb&w=600"
           },
           {
             "id": 306,
@@ -635,7 +635,7 @@
               "Butter"
             ],
             "price": 6.99,
-            "img_url": "https://example.com/grilled_cheese.jpg"
+            "img_url": "https://images.pexels.com/photos/1309595/pexels-photo-1309595.jpeg?auto=compress&cs=tinysrgb&w=600"
           }
         ]
     }
