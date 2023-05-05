@@ -109,7 +109,7 @@
               "Salsa"
             ],
             "price": 10.99,
-            "img_url": "https://example.com/beef_tacos.jpg"
+            "img_url": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10654.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.1.2077699082.1681132836&semt=sph"
           }
         ]
     },
@@ -321,7 +321,7 @@
           },
           {
             "id": 6,
-            "name": "Spinach and Feta Stuffed Chicken Breast",
+            "name": "Spinach and Feta Chicken Breast",
             "recipe_items": [
               "Chicken breast",
               "Spinach",

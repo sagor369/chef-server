@@ -28,6 +28,9 @@ app.get('/recipe/:id' , (req, res)=>{
     res.send(recipe)
 
 })
+app.get('/recipe', (req, res)=>{
+    res.send(food)
+})
 
 
 
