@@ -94,23 +94,8 @@
             ],
             "price": 15.99,
             "img_url": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
-          },
-          {
-            "id": 7,
-            "name": "Beef Tacos",
-            "recipe_items": [
-              "Ground beef",
-              "Taco seasoning",
-              "Taco shells",
-              "Lettuce",
-              "Tomatoes",
-              "Cheese",
-              "Sour cream",
-              "Salsa"
-            ],
-            "price": 10.99,
-            "img_url": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10654.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.1.2077699082.1681132836&semt=sph"
           }
+          
         ]
     },
     {
@@ -204,23 +189,8 @@
             ],
             "price": 17.99,
             "img_url": "https://img.freepik.com/free-photo/grilled-chicken-rice-spicy-chickpeas-avocado-cabbage-pepper-buddha-bowl_127032-1996.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
-          },
-          {
-            "id": 7,
-            "name": "Grilled Steak",
-            "recipe_items": [
-              "Sirloin steak",
-              "Salt",
-              "Pepper",
-              "Garlic powder",
-              "Butter",
-              "Rosemary",
-              "Thyme",
-              "Asparagus"
-            ],
-            "price": 19.99,
-            "img_url": "https://img.freepik.com/free-photo/spicy-fried-tubtim-fish-salad-spicy-thai-food_1150-26481.jpg?size=626&ext=jpg&uid=R20526338&ga=GA1.2.2077699082.1681132836&semt=sph"
           }
+          
         ]
     },
     {
